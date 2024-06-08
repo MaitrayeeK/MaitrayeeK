@@ -2,7 +2,11 @@
 ##### AI/Software Development Engineer
 
 ---
-✨ Passionate about AI Technologies, continuously learning and expanding expertise in full-stack development, AI, Cloud Computing, and DevOps.
+✨ Salutations, I welcome you to explore my journey of continuous learning and growth!
+
+Passionate about Artificial Intelligence technologies, I thrive on pushing the boundaries of innovation. Proficient in JavaScript's full-stack frameworks, I am dedicated to continuous learning and consistently acquire new skills and technologies to expand my expertise. By staying abreast of the latest technologies, I continually enhance my skill set.
+
+Dedicated to honing expertise in Artificial Intelligence, Cloud Computing, and DevOps technologies, I am committed to strengthen my proficiency in full-stack web development. Actively seeking opportunities to contribute to our growth and development, let's connect and explore possibilities for collaboration and growth.
 <!--
 **MaitrayeeK/MaitrayeeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ----
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitrayeeK&theme=default"/> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64b93d528a29ad56fa9b3e1a?variant=light&roadmaps=cpp%2Cdatastructures-and-algorithms%2Cpython%2Clinux" alt="roadmap.sh"/></a>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitrayeeK&theme=default"/> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64b93d528a29ad56fa9b3e1a?variant=light&roadmaps=cpp%2Cdatastructures-and-algorithms%2Cpython%2Clinux" alt="roadmap.sh"/></a> -->
 
 <!--- [![Maitrayee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaitrayeeK&show_icons=true&theme=dark)](https://github.com/MaitrayeeK/github-readme-stats)-->
 
@@ -29,5 +33,5 @@ Here are some ideas to get you started:
 <!-- <img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/output/github-contribution-grid-snake.svg" /> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaitrayeeK&label=Profile%20views&color=0e75b6&style=flat" alt="MaitrayeeK" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaitrayeeK&label=Profile%20views&color=0e75b6&style=flat" alt="MaitrayeeK" /> </p> -->
 
