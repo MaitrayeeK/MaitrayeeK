@@ -1,12 +1,13 @@
 ### Hi there 👋, Maitrayee here!
-##### AI/Software Development Engineer
+##### AI/Software Development Engineer <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 
 ---
-✨ Salutations, I welcome you to explore my journey of continuous learning and growth!
 
-Passionate about Artificial Intelligence technologies, I thrive on pushing the boundaries of innovation. Proficient in JavaScript's full-stack frameworks, I am dedicated to continuous learning and consistently acquire new skills and technologies to expand my expertise. By staying abreast of the latest technologies, I continually enhance my skill set.
+⚙️ Passionate about Artificial Intelligence technologies, I thrive on pushing the boundaries of innovation. Proficient in JavaScript's full-stack frameworks.
 
-Dedicated to honing expertise in Artificial Intelligence, Cloud Computing, and DevOps technologies, I am committed to strengthen my proficiency in full-stack web development. Actively seeking opportunities to contribute to our growth and development, let's connect and explore possibilities for collaboration and growth.
+👩🏻‍💻 I am dedicated to continuous learning and consistently acquire new skills and technologies to expand my expertise. By staying abreast of the latest technologies, ⭐ I continually enhance my skill set.
+
+🪄 Dedicated to honing expertise in Artificial Intelligence, Cloud Computing, and DevOps technologies, I am committed to strengthen my proficiency in full-stack web development.
 <!--
 **MaitrayeeK/MaitrayeeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MaitrayeeK&label=Profile%20views&color=0e75b6&style=flat" alt="MaitrayeeK" /> </p> -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width=100%/>
