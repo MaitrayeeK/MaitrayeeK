@@ -1,5 +1,5 @@
 ### Hi there 👋, Maitrayee here!
-##### AI/Software Development Engineer <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+##### AI & Software Development Engineer <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 
 ---
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ----
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=MaitrayeeK&theme=darcula&hide_border=true&background=FFFFFF00">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaitrayeeK&theme=default"/> <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64b93d528a29ad56fa9b3e1a?variant=light&roadmaps=cpp%2Cdatastructures-and-algorithms%2Cpython%2Clinux" alt="roadmap.sh"/></a> -->
 
 <!--- [![Maitrayee's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaitrayeeK&show_icons=true&theme=dark)](https://github.com/MaitrayeeK/github-readme-stats)-->
