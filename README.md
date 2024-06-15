@@ -3,11 +3,9 @@
 
 ---
 
-⚙️ Passionate about Artificial Intelligence technologies, I thrive on pushing the boundaries of innovation. Proficient in JavaScript's full-stack frameworks.
+⚙️ Passionate about Artificial Intelligence technologies, Proficient in JavaScript's full-stack frameworks. I am dedicated to continuous learning and consistently acquiring new skills and technologies to expand my expertise.
 
-👩🏻‍💻 I am dedicated to continuous learning and consistently acquire new skills and technologies to expand my expertise. By staying abreast of the latest technologies, I continually enhance my skill set.
-
-⭐ Dedicated to honing expertise in Artificial Intelligence, Cloud Computing, and DevOps technologies, I am committed to strengthen my proficiency in full-stack web development.
+⭐ Committed to honing my proficiency in Artificial Intelligence, Cloud Computing, DevOps technologies, and full-stack web development.
 
 ----
 
