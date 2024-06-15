@@ -16,8 +16,10 @@
 <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/c++.svg" alt="c++" height="35px"/></a>
 <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/javascript.svg" alt="javascript" height="35px"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/python.svg" alt="python" height="35px"/></a>
+<a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/opencv.svg" alt="opencv" height="30px"/></a>
 <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/node.svg" alt="nodejs" height="35px"/></a>
 <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/react.svg" alt="reactjs" height="35px"/></a>
+<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/redux.svg" alt="redux" height="35px"/></a>
 <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/java.svg" alt="java" height="35px"/></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/mysql.svg" alt="mysql" height="35px"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/mongodb.svg" alt="mongodb" height="35px"/></a>
