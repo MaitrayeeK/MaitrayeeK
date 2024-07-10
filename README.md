@@ -1,5 +1,5 @@
 ### Hi there 👋, Maitrayee here!
-##### AI & Software Development Engineer <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+##### AI Enthusiast <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 
 ---
 
