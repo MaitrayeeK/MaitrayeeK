@@ -3,18 +3,25 @@
 
 ---
 
-⚙️ Passionate about Artificial Intelligence technologies, Proficient in JavaScript's full-stack frameworks. I am dedicated to continuous learning and consistently acquiring new skills and technologies to expand my expertise.
+#### Passionate learner and explorer
+##### Learning 
+###### Machine learning, Natural language processing, LLMs, Generative AI
+##### Exploring
+###### AWS, Docker, Kuberenetes
 
-⭐ Committed to honing my proficiency in Artificial Intelligence, Cloud Computing, DevOps technologies, and full-stack web development.
+<h6>⚡Fun fact: I want to learn everything in tech !!!</h6>
 
 ----
 
-#### 🪄 Technologies I'm working with!
+#### 🪄 Technologies I'm working with
 
 <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/c++.svg" alt="c++" height="35px"/></a>
-<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/javascript.svg" alt="javascript" height="35px"/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/python.svg" alt="python" height="35px"/></a>
+<a href="https://scikit-learn.org/stable/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/scikit-learn.svg" alt="scikit-learn" height="45px"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/tensorflow.svg" alt="Tensorflow" height="30px"/></a>
+<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/PyTorch.svg" alt="Pytorch" height="30px"/></a>
 <a href="https://opencv.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/opencv.svg" alt="opencv" height="30px"/></a>
+<a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/javascript.svg" alt="javascript" height="30px"/></a>
 <a href="https://nodejs.org/en"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/node.svg" alt="nodejs" height="35px"/></a>
 <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/react.svg" alt="reactjs" height="35px"/></a>
 <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/redux.svg" alt="redux" height="35px"/></a>
@@ -24,6 +31,12 @@
 <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/firebase.svg" alt="firebase" height="35px"/></a>
 
 ---
+
+#### Connect with me!
+<a href="https://www.linkedin.com/in/maitrayee-khalasi/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/linkedin.svg" alt="linkedin" height="35px"/></a>
+<a href="https://leetcode.com/u/MaitrayeeK/"><img src="https://raw.githubusercontent.com/MaitrayeeK/MaitrayeeK/main/icons/leetcode.svg" alt="leetcode" height="30px"/></a>
+
+#### Reach me at maitrayeekhalasi@gmail.com
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=MaitrayeeK&theme=darcula&hide_border=true&background=FFFFFF00">
 
