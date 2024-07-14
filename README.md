@@ -38,7 +38,7 @@
 
 #### Reach me at maitrayeekhalasi@gmail.com
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=MaitrayeeK&theme=darcula&hide_border=true&background=FFFFFF00">
+<!--- <img src ="https://github-readme-streak-stats.herokuapp.com?user=MaitrayeeK&theme=darcula&hide_border=true&background=FFFFFF00"> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width=100%/>
 
